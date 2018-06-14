@@ -2,6 +2,7 @@
     "name": "meilu/my_package",
     "description": "this is meilu's animal",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": ">=5.6.4"
     },
