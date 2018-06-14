@@ -12,7 +12,7 @@ class dog{
 
     function say(){
 
-        echo "hello, i am a dog, do u want play with me";
+        echo "hello, i am a dog, do u want play with me\n";
     }
 
     function run(){

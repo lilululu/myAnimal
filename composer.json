@@ -4,7 +4,9 @@
     "type": "library",
     "license": "MIT",
     "require": {
+
         "php": ">=5.6.4"
+
     },
     "require-dev": {
         "monolog/monolog": "1.0"
@@ -20,7 +22,7 @@
 
         "psr-4":{
 
-            "Animal\\Dog\\":"src/animal/dog"
+            "src\\animal\\":"src/animal"
         }
     }
 }
